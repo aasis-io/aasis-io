@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student<br>- 📚 I'm currently learning Laravel and ReactJS<br>- ⚡ In my free time I match movies</p>
+<p align="left">- 🔭 I’m a student<br>- 📚 I'm currently learning Laravel and ReactJS<br>- ⚡ Coding for fun</p>
 
 ###
 
